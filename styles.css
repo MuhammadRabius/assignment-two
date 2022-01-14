@@ -102,19 +102,81 @@ button {
       width: 100%;
 }
 
+hr {
+      margin: 70px 0 1px 0px;
+}
+
 .company-logos {
       display: flex;
       justify-content: space-between;
 }
 
-
-
-
-
-
-
-
-
-
-
 /* Header Styles:: End.. */
+
+/* Main Styles::Start */
+.top-main {
+      text-align: center;
+      margin: 121px 0px 42px 3px;
+}
+
+.card {
+
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      margin-left: 150px;
+      width: 70%;
+      padding: 10;
+
+}
+
+.card .card-iteam img {
+      margin: 12px 10px 11px 10px;
+}
+
+.card-iteam {
+      top: 1541px;
+      box-shadow: 0px 0px 40px #eee;
+      border-radius: 15px;
+      padding: 10px;
+}
+}
+
+h2 {
+      font-size: 2em;
+
+}
+
+.p-name {
+      margin-left: 21px
+}
+
+h3 {
+      font-size: 1.7em;
+      margin-left: 21px;
+      margin-bottom: 30px;
+}
+
+.card-icon {
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      color: goldenrod;
+}
+
+
+
+h5 {
+      font-size: 12px;
+      margin-left: 25px;
+}
+
+#rating {
+      color: #5E6366;
+}
+
+article {
+      margin-left: 20px;
+      margin-bottom: 20px;
+}
+
+/* Main Styles::End */
