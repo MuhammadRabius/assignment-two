@@ -1,0 +1,120 @@
+/* ---------------Some external resourse for our project --------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Luxurious+Roman&family=Merriweather:ital@1&family=Roboto:wght@500&display=swap');
+/* ---------------Some external resourse for our project::End --------------------- */
+
+/*------------------- Complementory part of our project:: BODY-------------------- */
+body {
+      font-family: 'Lobster', cursive;
+      font-family: 'Luxurious Roman', cursive;
+      font-family: 'Merriweather', serif;
+      font-family: 'Roboto', sans-serif;
+
+      background: #ffffff;
+}
+
+/*------------------- Complementory part of our project:: BODY::EnD---------------- */
+
+/* Header Styles:: Start.. */
+header {
+      width: 80%;
+      margin: 0 auto;
+}
+
+.upper-header {
+      display: flex;
+
+}
+
+.logo-section {
+      font-size: 1em;
+
+}
+
+span {
+      font-size: 10px;
+      padding-bottom: 105px;
+}
+
+.nav-section {
+      display: flex;
+      flex-direction: row;
+}
+
+.nav-section ul {
+      display: flex;
+}
+
+.nav-section ul li {
+      display: flex;
+      padding-left: 60px;
+      margin-left: 20px;
+      margin-top: 10px;
+
+}
+
+.nav-section ul li a {
+      text-decoration: none;
+      justify-content: ;
+}
+
+.marketing-line {
+      width: 50%;
+      font-size: 1.7em;
+      color: #3A3A3A;
+}
+
+strong {
+      color: lightskyblue;
+
+}
+
+p {
+      text-align: center;
+      word-wrap: normal;
+      font-size: 15px;
+}
+
+button {
+      font-size: 0.8em;
+      width: 196px;
+      height: 44px;
+      left: 120px;
+      top: 511px;
+      padding: 7px 24px;
+      background: #E02C6D;
+      border-radius: 15px;
+}
+
+.fas {
+      margin-left: 22px;
+}
+
+.banner-part {
+      display: flex;
+
+}
+
+.banner-img {
+      margin-left: 190px;
+}
+
+.banner-img img {
+      width: 100%;
+}
+
+.company-logos {
+      display: flex;
+      justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Header Styles:: End.. */
