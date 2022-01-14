@@ -179,4 +179,51 @@ article {
       margin-bottom: 20px;
 }
 
+.next-pg-pd {
+      margin-left: 1200px;
+      color: lightslategrey;
+}
+
+
 /* Main Styles::End */
+
+/* Gear :: Start */
+.gear-information {
+      display: flex;
+      justify-content: center;
+      margin-top: 150px;
+}
+
+.gear img {
+      width: 426px;
+      margin-left: 35px;
+
+}
+
+.gear-details {
+      margin-left: 513px;
+      padding-right: 154px;
+      width: 257px;
+}
+
+/* Gear :: End */
+
+
+/* footer */
+footer {
+      background-color: midnightblue;
+      color: whitesmoke;
+}
+
+footer .copyright h2 {
+      margin-left: -6%;
+}
+
+p {
+      margin-left: -550px;
+}
+}
+
+footer .social-icon {
+      margin-left: 48%;
+}
