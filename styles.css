@@ -26,7 +26,7 @@ header {
 }
 
 .logo-section {
-      font-size: 1em;
+      font-size: 0.8em;
 
 }
 
@@ -103,12 +103,13 @@ button {
 }
 
 hr {
-      margin: 70px 0 1px 0px;
+      margin: 40px 0 1px 0px;
 }
 
 .company-logos {
       display: flex;
       justify-content: space-between;
+      padding-top: 15px;
 }
 
 /* Header Styles:: End.. */
@@ -192,6 +193,7 @@ article {
       display: flex;
       justify-content: center;
       margin-top: 150px;
+
 }
 
 .gear img {
@@ -203,7 +205,8 @@ article {
 .gear-details {
       margin-left: 513px;
       padding-right: 154px;
-      width: 257px;
+      width: 250px;
+      height: 450px;
 }
 
 /* Gear :: End */
@@ -215,15 +218,20 @@ footer {
       color: whitesmoke;
 }
 
-footer .copyright h2 {
-      margin-left: -6%;
-}
-
-p {
-      margin-left: -550px;
-}
-}
-
-footer .social-icon {
+.copyright h2,
+h6 {
       margin-left: 48%;
+}
+
+.gear-info {
+      margin-left: 48%;
+}
+}
+
+.social-icon {
+      margin-left: 48%;
+}
+
+.fab {
+      padding-left: 10px;
 }
