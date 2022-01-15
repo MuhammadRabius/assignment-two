@@ -235,3 +235,30 @@ h6 {
 .fab {
       padding-left: 10px;
 }
+
+
+/* 
+
+Responsive
+
+*/
+
+@media only screen and (max-width: 688px; ) {
+
+
+      .logo-section {
+            height: 24px;
+            width: 162px;
+
+            .marketing-line {
+                  width: 10%;
+                  font-size: 1.7em;
+                  color: #3A3A3A;
+
+
+
+                  .banner-img {
+                        width: 10px;
+                  }
+
+            }
